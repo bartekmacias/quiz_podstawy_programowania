@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz_programowanie", "Quiz_programowanie\Quiz_programowanie.csproj", "{9DFBAF89-00A8-49EF-9010-50DDBCB939FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quiz_programowanie", "quiz_programowanie.csproj", "{4C0B58D8-8FFC-4985-A408-57834B17B55E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9DFBAF89-00A8-49EF-9010-50DDBCB939FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9DFBAF89-00A8-49EF-9010-50DDBCB939FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9DFBAF89-00A8-49EF-9010-50DDBCB939FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9DFBAF89-00A8-49EF-9010-50DDBCB939FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C0B58D8-8FFC-4985-A408-57834B17B55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0B58D8-8FFC-4985-A408-57834B17B55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0B58D8-8FFC-4985-A408-57834B17B55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0B58D8-8FFC-4985-A408-57834B17B55E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3FC17BB5-835D-4DF2-96AC-7494A9486C2B}
+		SolutionGuid = {ACAA4255-5FF4-499C-99D5-E047B906F12C}
 	EndGlobalSection
 EndGlobal
