@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\quiz_programowanie_repo\\quiz_programowanie\\quiz_programowanie.csproj",
+      "projectUniqueName": "D:\\visual_studio_repos\\quiz_programowanie\\quiz_programowanie.csproj",
       "projectName": "quiz_programowanie",
-      "projectPath": "D:\\quiz_programowanie_repo\\quiz_programowanie\\quiz_programowanie.csproj",
+      "projectPath": "D:\\visual_studio_repos\\quiz_programowanie\\quiz_programowanie.csproj",
       "packagesPath": "C:\\Users\\b.maciaszczyk\\.nuget\\packages\\",
-      "outputPath": "D:\\quiz_programowanie_repo\\quiz_programowanie\\obj\\",
+      "outputPath": "D:\\visual_studio_repos\\quiz_programowanie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\b.maciaszczyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
