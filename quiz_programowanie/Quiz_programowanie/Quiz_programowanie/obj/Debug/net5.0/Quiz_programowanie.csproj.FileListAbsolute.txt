@@ -1,0 +1,16 @@
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\bin\Debug\net5.0\Quiz_programowanie.exe
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\bin\Debug\net5.0\Quiz_programowanie.deps.json
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\bin\Debug\net5.0\Quiz_programowanie.runtimeconfig.json
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\bin\Debug\net5.0\Quiz_programowanie.runtimeconfig.dev.json
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\bin\Debug\net5.0\Quiz_programowanie.dll
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\bin\Debug\net5.0\ref\Quiz_programowanie.dll
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\bin\Debug\net5.0\Quiz_programowanie.pdb
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\obj\Debug\net5.0\Quiz_programowanie.csproj.AssemblyReference.cache
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\obj\Debug\net5.0\Quiz_programowanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\obj\Debug\net5.0\Quiz_programowanie.AssemblyInfoInputs.cache
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\obj\Debug\net5.0\Quiz_programowanie.AssemblyInfo.cs
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\obj\Debug\net5.0\Quiz_programowanie.csproj.CoreCompileInputs.cache
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\obj\Debug\net5.0\Quiz_programowanie.dll
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\obj\Debug\net5.0\ref\Quiz_programowanie.dll
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\obj\Debug\net5.0\Quiz_programowanie.pdb
+D:\quiz_programowanie\Quiz_programowanie\Quiz_programowanie\obj\Debug\net5.0\Quiz_programowanie.genruntimeconfig.cache
